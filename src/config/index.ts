@@ -1,4 +1,4 @@
 import config from "./config";
-import * as constants from "./constants";
+import { ENVIRONMENT } from "./constants";
 
-export { config, constants };
+export { config, ENVIRONMENT };
